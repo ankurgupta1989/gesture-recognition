@@ -1,0 +1,106 @@
+index=1 Output class
+0 or 1
+
+index=2 Purchase Date
+date from Jan 2009 Dec 2010
+
+index=3 Auction
+OTHER
+MANHEIM
+ADESA
+
+index=4 Vehicle year
+set(['2002', '2003', '2001', '2006', '2007', '2004', '2005', '2008', '2009', '2010'])
+
+index=5 Vehicle age
+set(['1', '0', '3', '2', '5', '4', '7', '6', '9', '8'])
+
+index=6 Make
+set(['HUMMER', 'ACURA', 'VOLVO', 'SATURN', 'DODGE', 'SCION', 'ISUZU', 'JEEP', 'HONDA', 'HYUNDAI', 'MAZDA', 'PLYMOUTH', 'CADILLAC', 'SUZUKI', 'VOLKSWAGEN', 'MERCURY', 'MINI', 'LINCOLN', 'OLDSMOBILE', 'GMC', 'CHEVROLET', 'FORD', 'SUBARU', 'INFINITI', 'MITSUBISHI', 'LEXUS', 'PONTIAC', 'TOYOTA SCION', 'NISSAN', 'TOYOTA', 'CHRYSLER', 'BUICK', 'KIA'])
+
+index=7 Model
+1063 unique entries in 72983.
+
+index=8 Trim
+135 unique values.
+
+index=9 SubModel
+864 unique values.
+
+index=10 Color
+17 unique values.
+
+index=11 Transmission
+5 unique values.
+set(['', 'AUTO', 'Manual', 'NULL', 'MANUAL'])
+
+index=12 WheelTypeID
+5 unique values.
+set(['1', '0', '3', '2', 'NULL'])
+
+index=13 WheelType
+4 unique values
+set(['Alloy', 'NULL', 'Special', 'Covers'])
+
+index=14 Vehicle Odometer rating
+39947 unique values.
+Values from 4825 to 115717
+
+index=15 Nationality
+5 unique values.
+set(['AMERICAN', 'TOP LINE ASIAN', 'NULL', 'OTHER ASIAN', 'OTHER'])
+
+index=16 Size
+16 unique values.
+
+index=17 TopThreeAmericanName
+5 unique values.
+set(['GM', 'OTHER', 'NULL', 'CHRYSLER', 'FORD'])
+
+index=18
+10343 unique values.
+
+index=19 MMRAcquisitionAuctionCleanPrice
+11380 unique values.
+
+index=20 MMRAcquisitionRetailAveragePrice
+12726 unique values.
+
+index=21 MMRAcquisitonRetailCleanPrice
+13457 unique values.
+
+index=22 MMRCurrentAuctionAveragePrice
+10316 unique values.
+
+index=23 MMRCurrentAuctionCleanPrice
+11266 unique values.
+
+index=24 MMRCurrentRetailAveragePrice
+12494 unique values
+
+index=25 MMRCurrentRetailCleanPrice
+13193 unique values.
+
+index=26 PRIMEUNIT
+set(['YES', 'NULL', 'NO'])
+
+index=27 AUCGUART
+set(['NULL', 'GREEN', 'RED'])
+
+index=28 BYRNO
+74 unique values.
+
+index=29 VNZIP1
+153 unique values.
+
+index=30 VNST
+37 unique values.
+
+index=31 VehBCost
+2072 unique values from 1 9995.
+
+index=32 IsOnlineSale
+0 or 1
+
+index=33 WarrantyCost
+281 unique values from 462 to 7498.
